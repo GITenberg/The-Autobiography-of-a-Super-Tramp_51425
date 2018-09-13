@@ -1,5 +1,5 @@
 _repo: The-Autobiography-of-a-Super-Tramp_51425
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Shaw, Bernard
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '467'
     url: http://www.gutenberg.org/2009/agents/467
     wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+covers:
+- cover_type: archival
+  image_path: 51425-h/images/cover.jpg
 creator:
   author:
     agent_name: Davies, W. H. (William Henry)
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3014
     wikipedia: http://en.wikipedia.org/wiki/W._H._Davies
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51425#The-Autobiography-of-a-Super-Tramp
 gutenberg_issued: '2016-03-11'
 gutenberg_type: Text
 identifiers:
