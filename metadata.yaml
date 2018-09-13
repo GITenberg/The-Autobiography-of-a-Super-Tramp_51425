@@ -1,0 +1,42 @@
+_repo: The-Autobiography-of-a-Super-Tramp_51425
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, Bernhard
+    - Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+creator:
+  author:
+    agent_name: Davies, W. H. (William Henry)
+    aliases:
+    - Davies, William Henry
+    - Davies, William H. (William Henry)
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '3014'
+    url: http://www.gutenberg.org/2009/agents/3014
+    wikipedia: http://en.wikipedia.org/wiki/W._H._Davies
+description: ''
+gutenberg_issued: '2016-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51425'
+  lccn: '17013447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tramps -- Biography'
+- !lcsh 'Poets, English -- 20th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Davies, W. H. (William Henry), 1871-1940'
+- GITenberg
+title: The Autobiography of a Super-Tramp
+url: http://www.gutenberg.org/ebooks/51425
